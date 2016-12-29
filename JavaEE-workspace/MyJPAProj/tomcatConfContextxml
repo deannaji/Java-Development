@@ -1,0 +1,5 @@
+<Resource name="jdbc/EntityMappings" type="javax.sql.DataSource"
+           maxActive="50" maxIdle="30" maxWait="10000"
+           username="SA" password="Passw0rd" 
+           driverClassName="org.hsqldb.jdbcDriver"
+           url="jdbc:hsqldb:hsql://localhost/cpsc476;create=true"/>

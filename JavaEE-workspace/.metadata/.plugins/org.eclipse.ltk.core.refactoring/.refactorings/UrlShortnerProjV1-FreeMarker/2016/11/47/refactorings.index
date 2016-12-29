@@ -1,0 +1,9 @@
+1479080821299	Copy file
+1479092156476	Rename resource 'rootContext.xml'
+1479092168884	Rename resource 'ApplicationContext.xml'
+1479176233348	Rename type 'Bootstrap'
+1479267692941	Delete element
+1479267813109	Delete element
+1479268129166	Extract interface 'UrlDaoInterface'
+1479268148640	Delete element
+1479268195937	Extract interface 'UrlDaoInterface'

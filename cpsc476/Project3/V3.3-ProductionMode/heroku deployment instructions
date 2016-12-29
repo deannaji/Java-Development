@@ -1,0 +1,17 @@
+How to deploy a war file to heroku:
+----------------------------------
+
+1- Install the Heroku war plugin:
+   $ heroku plugins:install https://github.com/heroku/heroku-deploy
+
+2- Create your app folder
+
+3- inside your app folder:
+   $ git init
+
+4- copy your war file into your app folder, then:
+   $ git add .
+   $ git commit -m "some message"
+
+5- Now deploying to heroku:
+   $ heroku deploy:war --war warFileName.war --app myappName

@@ -1,0 +1,194 @@
+
+Nov 10, 2016 14:01:40.22 NEW SESSION
+Nov 10, 2016 14:01:40.22 ** Message: Remote error from secret service: org.freedesktop.Secret.Error.IsLocked: Cannot create an item in a locked collection
+
+Nov 10, 2016 16:21:40.44 NEW SESSION
+Nov 10, 2016 16:21:40.44 ** Message: Remote error from secret service: org.freedesktop.Secret.Error.IsLocked: Cannot create an item in a locked collection
+
+Nov 11, 2016 01:11:13.21 NEW SESSION
+Nov 11, 2016 01:11:13.21 ** Message: Remote error from secret service: org.freedesktop.Secret.Error.IsLocked: Cannot create an item in a locked collection
+Nov 11, 2016 01:13:38.22 ** Message: Remote error from secret service: org.freedesktop.Secret.Error.IsLocked: Cannot create an item in a locked collection
+Nov 11, 2016 01:15:52.76 ** Message: Remote error from secret service: org.freedesktop.Secret.Error.IsLocked: Cannot create an item in a locked collection
+Nov 11, 2016 02:33:02.07 [16364:16364:1111/023302:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+Nov 11, 2016 02:37:03.60 [17015:17015:1111/023703:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 7
+Nov 11, 2016 02:37:05.96 [17015:17015:1111/023705:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 9
+Nov 11, 2016 02:42:46.32 [17652:17652:1111/024246:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 7
+Nov 11, 2016 03:01:46.69 [18654:18654:1111/030146:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 15
+
+Nov 11, 2016 12:25:38.45 NEW SESSION
+Nov 11, 2016 12:25:38.45 [2029:2029:1111/122538:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 7
+Nov 11, 2016 12:41:36.29 [2938:2938:1111/124136:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+Nov 11, 2016 13:13:47.14 [4558:4558:1111/131347:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+
+Nov 11, 2016 19:34:33.75 NEW SESSION
+Nov 11, 2016 19:34:33.76 ** Message: received an invalid or unencryptable secret
+Nov 11, 2016 19:34:33.85 ** Message: Remote error from secret service: org.freedesktop.DBus.Error.Failed: Couldn't create item: The secret was transferred or encrypted in an invalid way.
+
+Nov 13, 2016 20:15:31.01 NEW SESSION
+Nov 13, 2016 20:15:31.01 ** Message: received an invalid or unencryptable secret
+Nov 13, 2016 20:15:31.10 ** Message: Remote error from secret service: org.freedesktop.DBus.Error.Failed: Couldn't create item: The secret was transferred or encrypted in an invalid way.
+
+Nov 15, 2016 19:50:23.87 NEW SESSION
+Nov 15, 2016 19:50:23.87 Created new window in existing browser session.
+Nov 15, 2016 19:57:38.61 Created new window in existing browser session.
+Nov 15, 2016 20:18:11.47 Created new window in existing browser session.
+Nov 15, 2016 20:55:31.91 [1:1:1115/205531:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 15, 2016 21:01:50.61 Created new window in existing browser session.
+Nov 15, 2016 21:04:08.10 Created new window in existing browser session.
+Nov 15, 2016 21:04:08.19 [8466:8466:1115/210408:ERROR:broker_posix.cc(41)] Invalid node channel message
+
+Nov 20, 2016 13:55:12.78 NEW SESSION
+Nov 20, 2016 13:55:12.78 [2801:2801:1120/135512:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+Nov 20, 2016 13:56:55.66 [3144:3144:1120/135655:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+
+Nov 20, 2016 21:54:49.18 NEW SESSION
+Nov 20, 2016 21:54:49.18 [1,214292288:05:54:49.186648] Native Client module will be loaded at base address 0x0000643800000000
+Nov 20, 2016 21:57:21.59 [1,45061952:05:57:21.595079] Native Client module will be loaded at base address 0x000010e900000000
+Nov 20, 2016 21:57:23.48 [23488:23519:1120/215723:ERROR:pnacl_host.cc(440)] TranslationFinished: TranslationID 10,-1200300287 not found.
+Nov 20, 2016 22:05:40.60 [1,3565111104:06:05:40.603464] Native Client module will be loaded at base address 0x00003fe800000000
+Nov 20, 2016 22:21:27.28 [1,331622208:06:21:27.282572] Native Client module will be loaded at base address 0x00001e6000000000
+Nov 20, 2016 22:22:25.26 [1,331622208:06:22:25.265395] Native Client module will be loaded at base address 0x0000094900000000
+Nov 20, 2016 22:22:41.77 [24866:24898:1120/222241:ERROR:pnacl_host.cc(440)] TranslationFinished: TranslationID 14,-1889281239 not found.
+Nov 20, 2016 22:27:40.44 [1,331622208:06:27:40.446358] Native Client module will be loaded at base address 0x0000634500000000
+Nov 20, 2016 22:31:32.73 [1,331622208:06:31:32.735662] Native Client module will be loaded at base address 0x00007c4f00000000
+Nov 20, 2016 22:37:40.97 Created new window in existing browser session.
+Nov 20, 2016 22:38:24.05 Created new window in existing browser session.
+Nov 20, 2016 22:49:22.78 Created new window in existing browser session.
+Nov 20, 2016 22:51:16.17 Created new window in existing browser session.
+Nov 20, 2016 22:57:11.63 Created new window in existing browser session.
+
+Nov 24, 2016 11:48:43.40 NEW SESSION
+Nov 24, 2016 11:48:43.40 [1:1:1124/114843:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:01:27.83 [1:1:1124/140127:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:27:29.28 [1:1:1124/142729:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:27:42.14 [1:1:1124/142742:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:28:01.33 [1:1:1124/142801:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:28:46.15 [1:1:1124/142846:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:29:05.28 [1:1:1124/142905:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:29:20.50 [1:1:1124/142920:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:52:44.24 [1:1:1124/145244:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 14:57:01.37 [1:1:1124/145701:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 15:06:12.35 [1:1:1124/150612:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 15:16:49.08 [1:1:1124/151649:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 15:32:44.09 [1:1:1124/153244:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 16:31:11.35 [1:1:1124/163111:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 16:32:47.66 [1:1:1124/163247:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 16:39:06.48 [1:1:1124/163906:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 16:40:42.67 [1:1:1124/164042:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 16:43:19.63 [1:1:1124/164319:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 16:55:18.46 [1:1:1124/165518:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 16:56:21.59 [1:1:1124/165621:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 24, 2016 16:57:40.11 Created new window in existing browser session.
+Nov 24, 2016 16:57:53.74 [1:1:1124/165753:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+
+Nov 25, 2016 15:01:06.35 NEW SESSION
+Nov 25, 2016 15:01:06.35 [1:1:1125/150106:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:01:09.06 [1:1:1125/150109:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:02:12.96 [1:1:1125/150212:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:05:16.35 [1:1:1125/150516:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:10:44.60 [1:1:1125/151044:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:12:09.98 Created new window in existing browser session.
+Nov 25, 2016 15:12:37.15 [1:1:1125/151237:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:13:38.01 [1:1:1125/151338:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:14:58.04 [1:1:1125/151458:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:16:37.58 [1:1:1125/151637:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:18:46.16 Created new window in existing browser session.
+Nov 25, 2016 15:19:25.38 [1:1:1125/151925:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:23:39.69 [1:1:1125/152339:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:26:07.61 Created new window in existing browser session.
+Nov 25, 2016 15:28:11.85 [1:1:1125/152811:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:32:16.35 [1:1:1125/153216:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 15:33:33.24 Created new window in existing browser session.
+Nov 25, 2016 15:57:37.01 Created new window in existing browser session.
+Nov 25, 2016 16:17:43.29 [1:1:1125/161743:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:19:45.78 [1:1:1125/161945:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:21:20.01 [1:1:1125/162120:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:24:04.70 [1:1:1125/162404:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:26:18.12 [1:1:1125/162618:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:27:34.41 [1:1:1125/162734:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:28:02.30 [8927:8927:1125/162802:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 13
+Nov 25, 2016 16:28:52.81 [1:1:1125/162852:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:30:17.08 Created new window in existing browser session.
+Nov 25, 2016 16:30:43.11 [1:1:1125/163043:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:32:56.83 [1:1:1125/163256:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:34:37.97 [1:1:1125/163437:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:35:38.04 [1:1:1125/163538:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:36:13.29 [10415:10415:1125/163613:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 15
+Nov 25, 2016 16:40:37.25 [1:1:1125/164037:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:42:07.52 [1:1:1125/164207:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:42:11.39 [1:1:1125/164211:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:42:11.39 [1:1:1125/164211:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:44:02.03 [1:1:1125/164402:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:45:04.35 [1:1:1125/164504:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:46:22.41 [1:1:1125/164622:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:50:04.84 [1:1:1125/165004:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:50:08.82 [1:1:1125/165008:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:51:19.50 [1:1:1125/165119:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:53:16.43 [1:1:1125/165316:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:56:15.91 [1:1:1125/165615:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:57:22.08 [1:1:1125/165722:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 16:58:18.26 [1:1:1125/165818:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 17:07:50.20 [1:1:1125/170750:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 17:20:29.84 [1:1:1125/172029:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+Nov 25, 2016 17:25:35.19 [15162:15162:1125/172535:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+Nov 25, 2016 17:25:36.43 [15162:15162:1125/172536:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 7
+Nov 25, 2016 17:34:42.03 [16531:16531:1125/173442:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+Nov 25, 2016 18:13:31.06 [21058:21058:1125/181331:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+Nov 25, 2016 18:23:59.28 [1:1:1125/182359:ERROR:PlatformKeyboardEvent.cpp(93)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+
+Nov 29, 2016 13:04:24.20 NEW SESSION
+Nov 29, 2016 13:04:24.20 
+Nov 29, 2016 13:04:24.57 (google-chrome:2143): IBUS-WARNING **: Unable to connect to ibus: Could not connect: Connection refused
+Nov 29, 2016 13:07:43.62 [2640:2640:1129/130743:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Nov 29, 2016 13:08:32.91 ** Message: received an invalid or unencryptable secret
+Nov 29, 2016 13:08:32.98 ** Message: Remote error from secret service: org.freedesktop.DBus.Error.Failed: Couldn't create item: The secret was transferred or encrypted in an invalid way.
+
+Dec 02, 2016 22:56:36.72 NEW SESSION
+Dec 02, 2016 22:56:36.72 [6795:6795:1202/225636:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 1
+
+Dec 12, 2016 21:12:39.38 NEW SESSION
+Dec 12, 2016 21:12:39.38 [6547:6547:1212/211239:ERROR:navigation_entry_screenshot_manager.cc(141)] Invalid entry with unique id: 16
+Dec 12, 2016 21:13:25.91 [1:1:1212/211325:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 12, 2016 21:13:35.17 [1:1:1212/211335:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+
+Dec 20, 2016 14:13:17.17 NEW SESSION
+Dec 20, 2016 14:13:17.17 [1:1:1220/141317:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 14:20:10.66 [1:1:1220/142010:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+
+Dec 20, 2016 21:38:48.34 NEW SESSION
+Dec 20, 2016 21:38:48.34 [1:1:1220/213848:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 21:41:03.76 [1:1:1220/214103:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 21:47:06.81 [1:1:1220/214706:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 21:47:16.22 [1:1:1220/214716:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 21:47:26.78 [1:1:1220/214726:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:00:41.25 [1:1:1220/220041:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:18:31.82 [1:1:1220/221831:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:28:00.66 [1:1:1220/222800:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:38:48.34 [1:1:1220/223848:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:39:54.70 [1:1:1220/223954:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:53:42.71 [1:1:1220/225342:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:53:48.39 [1:1:1220/225348:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:54:10.82 [1:1:1220/225410:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:58:02.96 [1:1:1220/225802:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 22:58:15.40 [1:1:1220/225815:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 23:05:20.99 [1:1:1220/230520:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 23:05:25.60 [1:1:1220/230525:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 23:05:37.63 [1:1:1220/230537:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 23:05:50.55 [1:1:1220/230550:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 23:06:06.24 [1:1:1220/230606:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 20, 2016 23:38:05.76 [1:1:1220/233805:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 21, 2016 01:10:43.81 Created new window in existing browser session.
+Dec 21, 2016 01:16:41.79 Created new window in existing browser session.
+Dec 21, 2016 01:24:34.75 Created new window in existing browser session.
+
+Dec 22, 2016 20:57:05.94 NEW SESSION
+Dec 22, 2016 20:57:05.94 [1:1:1222/205705:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 22, 2016 20:57:09.30 [1:1:1222/205709:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 22, 2016 21:32:29.65 [1:1:1222/213229:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 22, 2016 21:41:09.43 [1:1:1222/214109:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 22, 2016 21:57:42.93 [1:1:1222/215742:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 22, 2016 22:02:09.48 Created new window in existing browser session.
+Dec 22, 2016 22:04:32.05 [1:1:1222/220432:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 22, 2016 22:04:46.87 [1:1:1222/220446:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 22, 2016 22:04:51.01 [1:1:1222/220451:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+Dec 22, 2016 22:06:30.40 [1:1:1222/220630:ERROR:KeyboardEventManager.cpp(344)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Dec 22 22:46:57 PST 2016
+org.eclipse.jst.jee.server\:/binary\:/home/dean/.m2/repository/org/springframework/spring-web/4.0.6.RELEASE/spring-web-4.0.6.RELEASE.jar=/home/dean/apache-tomcat-9.0.0.M13/wtpwebapps/UrlShortnerProjV3/WEB-INF/lib/spring-web-4.0.6.RELEASE.jar
+org.eclipse.jst.jee.server\:UrlShortnerProjV3=/home/dean/apache-tomcat-9.0.0.M13/wtpwebapps/UrlShortnerProjV3

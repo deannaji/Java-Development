@@ -1,0 +1,12 @@
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/config/Bootstrap.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/Url.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/config/ServletContextConfiguration.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/LoginServlet.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/redirection.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/PrivateServlet.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/config/RootContextConfiguration.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/UserDao.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/UserDaoInterface.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/UrlDao.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/UrlDaoInterface.java
+/home/dean/work/cpsc476/Project3/V3.1/UrlShortnerProjV3/source/production/java/com/cpsc476/site/UrlShortnerPublicController.java

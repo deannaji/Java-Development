@@ -1,0 +1,15 @@
+Renaming a maven project in eclipse(Taken from Stackoverflow.com):
+
+It appears that renaming a project will only rename the underlying filesystem directory if the project was created with the "Use Default Location" checkbox selected (meaning the project is created in the workspace directory). If you create a project and specify a custom location outside the workspace, renaming that project in Eclipse does not rename the project's host directory. In that case, you'll probably want to:
+
+1. Rename the project in Eclipse(along with renaming the artifactID of pom.xml). 
+   That will update any internal references and the .project file)
+2. Remove the project from your Eclipse Workbench view (making sure that the 
+   "Delete file contents" option is NOT selected in the delete confirmation dialog).
+3. Rename the project's directory in your filesystem.
+4. Import the project back into your Eclipse workspace.
+5. Then you can remove old packages and servlets/classes.
+
+
+I was surprised to learn this (I tested it with Eclipse 3.7), but it seems to be logical to me. The idea is that projects in the workspace folder are considered to be "under Eclipse control" as opposed to projects that are located in arbitrary places on your filesystem.
+

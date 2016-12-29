@@ -1,0 +1,15 @@
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/config/RootContextConfiguration.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/url/UrlsDataBase.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/LoginController.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/config/ServletContextConfiguration.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/RedirectionController.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/url/UrlDaoInterface.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/url/UrlDaoImp.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/user/UserDaoImp.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/config/Bootstrap.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/user/UserDaoInterface.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/PrivateController.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/user/UsersDataBase.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/url/Url.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/user/User.java
+/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3/source/production/java/com/cpsc476/site/PublicController.java

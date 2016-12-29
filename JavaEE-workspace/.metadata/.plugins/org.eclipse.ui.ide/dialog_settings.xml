@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/dean/work/cpsc476/Project3/V3.3-ProductionMode/UrlShortnerProjV3"/>
+		<item value="/home/dean/work/cpsc476/Project3/V3.3/UrlShortnerProjV3"/>
+		<item value="/home/dean/work/cpsc476/Project3/V3.2/UrlShortnerProjV3"/>
+		<item value="/home/dean/work/cpsc476/Project3/UrlShortnerProjV3"/>
+		<item value="/home/dean/work/cpsc476/Project3/UrlShortnerProj"/>
+		<item value="/home/dean/work/cpsc476/GradStudentProj/UrlShortnerProjV1-FreeMarker"/>
+		<item value="/home/dean/work/cpsc476/GradStudentProj/UrlShortnerProjV1"/>
+		<item value="/home/dean/work/cpsc476/Project1/UrlShortnerProjV1"/>
+		<item value="/home/dean/work/cpsc476/Project1/UrlShortnerProj"/>
+		<item value="/home/dean/work/Java for Web Applications/MyJPAProj"/>
+		<item value="/home/dean/work/Java for Web Applications/MyMavenWebApp2"/>
+		<item value="/home/dean/work/JavaEE-workspace/HelloFreeMarkerProj"/>
+		<item value="/home/dean/work/Java for Web Applications/MySpringDB-xml"/>
+		<item value="/home/dean/work/JavaEE-workspace/UrlShortnerProj"/>
+		<item value="/home/dean/work/JavaEE-workspace/MyCustomerSupportProj"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="569" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="519" key="DIALOG_X_ORIGIN"/>
+		<item value="193" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

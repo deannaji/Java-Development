@@ -1,0 +1,2 @@
+<%@ page import="com.cpsc476.Ticket, com.cpsc476.Attachment" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
